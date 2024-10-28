@@ -124,7 +124,7 @@ The project utilizes various machine learning algorithms, including:
 - Logistic Regression
 - Decision Trees
 - Random Forest
-- Support Vector Machines (SVM)
+- Naive Bayes
 - Gradient Boosting
 - XGBoost
 
