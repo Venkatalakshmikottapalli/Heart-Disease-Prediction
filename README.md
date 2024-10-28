@@ -6,10 +6,8 @@
 - [Data Summary](#data-summary)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Model Training](# Model Training)
 - [Features](#features)
-- [Model Training](#model-training)
-- [Results](#results)
 - [License](#license)
 - [Contact](#contact)
 
@@ -115,24 +113,10 @@ git
 pip install -r requirements.txt
 ```
 
-# Usage
-To train the model, run the following command:
-
-```bash
-python train_model.py
-```
-
-To make predictions, use:
-
-```bash
-python predict.py --input <data.csv>
-```
-
 ## Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Model training and evaluation
-- Prediction functionality
 - Visualizations for data insights
 
 ## Model Training
@@ -145,9 +129,6 @@ The project utilizes various machine learning algorithms, including:
 - XGBoost
 
 Each model's performance is evaluated using metrics such as accuracy, precision, recall, and F1 score.
-
-## Results
-The models' results are presented in the `results` directory, including performance metrics and visualizations. The best-performing model can be found in the reports folder.
 
 ## Fork the repository.
 2. Create a new branch:
