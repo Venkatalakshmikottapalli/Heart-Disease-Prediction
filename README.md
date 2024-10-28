@@ -6,7 +6,7 @@
 - [Data Summary](#data-summary)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Model Training](# Model Training)
+- [Model Training](#model-training)
 - [Features](#features)
 - [License](#license)
 - [Contact](#contact)
