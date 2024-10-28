@@ -10,7 +10,6 @@
 - [Features](#features)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
