@@ -17,7 +17,7 @@
 The Heart Disease Prediction project aims to develop a machine learning model to predict the likelihood of heart disease in individuals based on various health metrics. This project leverages historical health data to identify patterns and factors contributing to heart disease, providing valuable insights for preventive healthcare.
 
 ## Dataset
-The dataset used in this project is sourced from : Heart Disease Health Indicators Dataset (kaggle.com) and contains health records of individuals with features that indicate their health status and lifestyle choices.
+The dataset used in this project is sourced from : [Heart Disease Health Indicators Dataset (kaggle.com)](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) and contains health records of individuals with features that indicate their health status and lifestyle choices.
 
 ## Data Summary
 The dataset includes the following features:
